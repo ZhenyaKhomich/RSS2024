@@ -423,12 +423,12 @@ body {
 
 @media(max-width: 400px) {
   body {
-    height: 100svh;
+    height: 100dvh;
   }
   .wrap {
     .wrapImg {
       img {
-        height: 100svh;
+        height: 100dvh;
       }
     }
   }
